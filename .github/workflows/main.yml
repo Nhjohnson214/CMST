@@ -6,7 +6,7 @@
 
 #Change the name to match your course name
 
-#Example name: Deploy HTML Files to AppService - CMST385
+#Example name: Deploy HTML Files to AppService - COURSENAME
 
 name: Deploy HTML Files to AppService - CMST385
 
@@ -36,7 +36,7 @@ jobs:
 
       #Change the app-name to match what was provided to you in the publish settings file, this is in a naming convention of 'COURSENAME-STUDENTUID'
 
-        app-name: 'CMST385-njohnson214'
+        app-name: 'cmst385-njohnson214'
 
         slot-name: 'production'
 
